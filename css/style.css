@@ -50,7 +50,7 @@ h1,h2,h3,h4,h5,h6{
 }
 #pricing{
     height: 100vh;
-    min-height: 600px;
+    min-height: 800px;
     display: flex;
     justify-content: space-around;
     background-image: url('../img/hero.jpg');
